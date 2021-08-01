@@ -41,7 +41,7 @@ body {
 *::after { box-sizing: inherit; }
 
 /* -- TYPOGRAPHY -- */
-h1 {
+h2 {
     margin-block: 2rem;
     font-family: var(--ff-main);
     font-size: 3rem;
@@ -50,7 +50,7 @@ h1 {
 }
 
 @media (min-width: 912px) {
-    h1 {
+    h2 {
         margin-block: 2rem;
         font-size: 4.5rem;
     }
