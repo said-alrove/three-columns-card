@@ -9,7 +9,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/3columncard-component-with-sass-using-the-smacss-methodology-M5rZwsCyJ)
-- [Github Live](https://said-alrove.github.io/three-columns-card-sass/)
+- [Github Live](https://said-alrove.github.io/three-columns-card/)
 
 ## Author
 
