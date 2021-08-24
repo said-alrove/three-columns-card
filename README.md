@@ -11,7 +11,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/3columncard-component-with-grid-and-flexbox-css-only-O0Csq8isi)
-- [Netlify](https://tcc-121900.netlify.app/)
+- [Netlify](https://tcc-3e2fad.netlify.app/)
 
 ## Author
 
